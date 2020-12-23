@@ -1,0 +1,137 @@
+[33mcommit bcfe513cbd10d190b6af8b0db9cef65f9e093068[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Thu Oct 22 16:40:20 2020 +0200
+
+    49
+
+[33mcommit 95f361469f0d7375547b93b6cfa1f6e40f2318c9[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Thu Oct 22 11:25:05 2020 +0200
+
+    46 dashboard
+
+[33mcommit 2413cce8f8d4d3806bc24f7fb9e2c3bc856c7b6d[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Thu Oct 22 10:21:12 2020 +0200
+
+    45 get currect profile reducer
+
+[33mcommit 7d13063cf205cd62caa6d0531933d9c6bb1f86fd[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Thu Oct 22 10:03:29 2020 +0200
+
+    44 private dashboard route
+
+[33mcommit dcb3eb6a57efbd5b36cd9071349c0ab6f5bd3caa[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Wed Oct 21 12:44:35 2020 +0200
+
+    43 logout
+
+[33mcommit 352a9fcb95b2b9ee01921e5fa28643dfb2c15122[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Wed Oct 21 12:25:00 2020 +0200
+
+    42 login user
+
+[33mcommit 41eac354662a7ca6db52b8cbca580fe7d331d0e2[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Wed Oct 21 11:28:12 2020 +0200
+
+    41
+
+[33mcommit 6e47207fe50e1dbca35a1fed5981003c6923360c[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Wed Oct 21 09:24:11 2020 +0200
+
+    39 allerts are done
+
+[33mcommit 03a9036b7c7429ddfc8c6b2717dcbfeb14d686ed[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Wed Oct 21 08:36:13 2020 +0200
+
+    38
+
+[33mcommit 2057af4be8c3eaf8e1bf11d27d34b19a794b9b59[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Tue Oct 20 10:38:28 2020 +0200
+
+    37 redux store
+
+[33mcommit 106456fe41b7cfcd7f4d0db834d3631f5b67ba42[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Mon Oct 19 15:59:22 2020 +0200
+
+    35 installer react, made register and login front
+
+[33mcommit d74af982fd32ca9bbe951c0c0fd0ea569f237384[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Mon Oct 19 10:54:02 2020 +0200
+
+    26 get all posts, delete them
+
+[33mcommit 7c6137e505e6585ed3b7389d84472690edd7472b[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Mon Oct 19 10:31:54 2020 +0200
+
+    25 adding posts, date doesn't work
+
+[33mcommit 67225587493217ef3c471213b364d657f176ea65[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Fri Oct 16 12:51:37 2020 +0200
+
+    19 delete users and profiles
+
+[33mcommit 251e94e3f23f5957132dfefa8ecce3ed185839a7[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Fri Oct 16 12:32:14 2020 +0200
+
+    18
+
+[33mcommit 7b1ca71fd49ced176c6973e83bd43217461de45c[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Fri Oct 16 11:47:04 2020 +0200
+
+    17 create update profile routes
+
+[33mcommit 4e88003f38ded06289edd579fec0e9978b821e4d[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Fri Oct 16 11:01:50 2020 +0200
+
+    16
+
+[33mcommit 234b1e7b0271b61670d75bf9b15ea86f0819439e[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Fri Oct 16 10:30:58 2020 +0200
+
+    14, gotova registracija i prijava
+
+[33mcommit 0180f57c7eecbfc3e1b234427d8988a90e510007[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Fri Oct 16 09:49:12 2020 +0200
+
+    13
+
+[33mcommit 3dd0078626f95f57db2720fd45f2cb5d3ac67dcb[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Fri Oct 16 09:30:14 2020 +0200
+
+    12 - pocetak javljanaj express valdiator deprecated errora
+
+[33mcommit a77f3c88d6412e91164f66a663eb85d4ad2c25f2[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Thu Oct 15 14:21:48 2020 +0200
+
+    Registration 10
+
+[33mcommit b3b6ff165449eb9f25312d6f862c8d11e1fd1414[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Thu Oct 15 12:43:40 2020 +0200
+
+    07
+
+[33mcommit 64e5fe6e855f82e290295b4565729db5b7232554[m
+Author: rebels001 <filipovic.marko997@gmail.com>
+Date:   Thu Oct 15 12:25:09 2020 +0200
+
+    Inital commit

@@ -1,0 +1,55 @@
+.post-form .post-form-header
+  background: var(--primary-color)
+  padding: 0.5rem
+
+.posts 
+  display: flex
+  flex-direction: column-reverse
+
+.post
+  display: grid
+  grid-template-columns: 1fr 4fr
+  grid-gap: 2rem
+  align-items: center
+  transition: 1s all
+
+  &:hover
+    box-shadow: 12px 12px 30px -1px #0000004b
+
+.new-post
+  border-radius: 35px
+  background: #f2f2f2
+  box-shadow: 3px 0px 15px #bababa, -14px -14px 28px #ffffff
+  padding: 35px 50px
+  margin: 20px 0 60px
+
+.image-postItem
+  height: 100%
+  width: 100%
+  display: flex
+  justify-content: center
+  align-items: center
+
+.img-Item
+  height: 90%
+  width: 100%
+
+.img-item img
+  height: 100%
+  width: 100% !important
+
+.post
+  > div:first-child
+    text-align: center
+
+  img
+    width: 100px
+
+  .post-date
+    color: #aaa
+    font-size: 0.8rem
+    margin-bottom: 0.5rem
+
+  .location 
+    font-size: 0.9rem
+    color: #424242
